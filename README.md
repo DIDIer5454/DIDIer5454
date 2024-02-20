@@ -1,15 +1,16 @@
 - 👋 Hi, I’m @DIDIer5454
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in cybersécurtity
+- 🌱 I’m currently learning system administration and networking 
+
 
 <!---
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 DIDIer5454/DIDIer5454 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 ## Informations Personnelles
-- **Téléphone**: [Votre Numéro]
+
 - **LinkedIn**: [Votre Profil LinkedIn]
 
 ## Objectif Professionnel
@@ -17,7 +18,8 @@ Administrateur système et réseau spécialisé dans les solutions cloud, avec u
 
 ## Compétences Techniques
 ### Systèmes d'Exploitation
-- Linux (Red Hat, CentOS, Ubuntu,Debian ,Arch)
+- Linux ( Ubuntu,Debian ,Arch)
+- Windows
 
 ### Réseaux
 - Configuration et gestion des réseaux locaux (LAN) et étendus (WAN)
@@ -27,9 +29,7 @@ Administrateur système et réseau spécialisé dans les solutions cloud, avec u
 ### Cloud Computing
 - Google Cloud Platform
   - Compute Engine, Cloud Storage, Identity and Access Management (IAM)
-### Virtualisation
-- VMware 
-- Microsoft Hyper-V
+### Virtualisation 
 - Docker, Kubernetes
 - Conteneurisations
 ### Sécurité
@@ -41,7 +41,6 @@ Administrateur système et réseau spécialisé dans les solutions cloud, avec u
 - Shell scripting (Bash)
 -
 ### Outils de Surveillance
-- Nagios
 - Prometheus
 - Grafana
 
@@ -53,13 +52,13 @@ Administrateur système et réseau spécialisé dans les solutions cloud, avec u
 - Mise en œuvre de politiques de sécurité pour assurer la conformité et la protection des données sensibles.
 
 ### Administrateur Système 
-- Maintenance et optimisation des serveurs Linux et Windows.
+- Maintenance et optimisation des serveurs Linux .
 - Gestion des réseaux locaux et résolution des problèmes liés à la connectivité.
 - Implémentation de solutions de sauvegarde et de reprise après sinistre.
 
 ## Formation Académique
 - **Diplôme en [Domaine d'Études]**
-  -  [Nom de l'Université] | [Année d'obtention]
+  -  DUT à l'IUT NANCY CHARLEMAGNE en 2023
 
 ## Certifications
 
