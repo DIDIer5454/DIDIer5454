@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Informations Personnelles
 
-- **LinkedIn**: [https://www.linkedin.com/in/rafael-didier-menene-akoo-obono-2a3929264/]
+- **LinkedIn**: [(https://www.linkedin.com/in/rafael-didier-menene-akoo-obono-2a3929264/)]
 
 ## Objectif Professionnel
 Administrateur système et réseau spécialisé dans les solutions cloud, avec une expertise approfondie dans la conception, la mise en œuvre et la gestion d'infrastructures informatiques.
