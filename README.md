@@ -29,7 +29,7 @@ Administrateur système et réseau spécialisé dans les solutions cloud, avec u
 ### Cloud Computing 3/5
 - Google Cloud Platform
   - Compute Engine, Cloud Storage, Identity and Access Management (IAM)
-### Virtualisation 
+### Virtualisation 3/5
 - Docker, Kubernetes
 - Conteneurisations
 ### Sécurité 1/5
@@ -60,8 +60,8 @@ Il s'agit d'outil permettant de gérer les ressources d'une machine en cas de so
 ## Formation Académique
 - **Diplôme en Informatique**
   -  BUT à l'IUT NANCY CHARLEMAGNE en 2024(j'espère).
-    **ressentit:** je voudrais d'abord remercier les responsables d'enseignement pour le combat rude qu'il y a eu pour trouver des intervenants dans une configurations aux apparences défavorables...
-     J'ai le sentiment d'avoir été bien formé sur le plan technique cependant j'aurais apprécié un peu plus de mathématiques ,étant donné que nous n'avons pas eu de cours de sécurité...
+    **ressentit:** je voudrais d'abord remercier les responsables d'enseignement pour le combat rude qu'il y a eu pour nous trouver des intervenants dans une configurations aux apparences défavorables...
+     J'ai le sentiment d'avoir été bien formé sur le plan technique(car au moins les intervenants présents nous montrait les technos qu'ils utilisaient dans leur boîte et nous parlait de leurs expérience au passage,suivie de projets terre à terre) cependant j'aurais apprécié un peu plus de mathématiques ,étant donné que nous n'avons pas eu de cours de sécurité...
 
 ## Certifications
 
