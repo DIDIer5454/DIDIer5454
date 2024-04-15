@@ -17,30 +17,31 @@ You can click the Preview link to take a look at your changes.
 Administrateur système et réseau spécialisé dans les solutions cloud, avec une expertise approfondie dans la conception, la mise en œuvre et la gestion d'infrastructures informatiques.
 
 ## Compétences Techniques
-### Systèmes d'Exploitation
+### Systèmes d'Exploitation  3/5
 - Linux ( Ubuntu,Debian ,Arch)
 - Windows
 
-### Réseaux
+### Réseaux 3/5
 - Configuration et gestion des réseaux locaux (LAN) et étendus (WAN)
 - Protocoles réseau (TCP/IP, DNS, DHCP)
 - Sécurité réseau et pare-feu
 
-### Cloud Computing
+### Cloud Computing 3/5
 - Google Cloud Platform
   - Compute Engine, Cloud Storage, Identity and Access Management (IAM)
 ### Virtualisation 
 - Docker, Kubernetes
 - Conteneurisations
-### Sécurité
+### Sécurité 1/5
 - Mise en place de politiques de sécurité
 - Surveillance des vulnérabilités
 - Gestion des certificats SSL/TLS
 
-### Scripting et Automatisation
+### Scripting et Automatisation 4/5
 - Shell scripting (Bash)
--
-### Outils de Surveillance
+- Ruby 
+### Outils de Surveillance 2/5
+Il s'agit d'outil permettant de gérer les ressources d'une machine en cas de soucis, afin de débuger plus facilement certains soucis(Mémoire vive,disque dur plein ,cpu ,identifier des applications gourmandes,optimisation d'un serveur). 
 - Prometheus
 - Grafana
 
@@ -57,8 +58,10 @@ Administrateur système et réseau spécialisé dans les solutions cloud, avec u
 - Implémentation de solutions de sauvegarde et de reprise après sinistre.
 
 ## Formation Académique
-- **Diplôme en [Domaine d'Études]**
-  -  DUT à l'IUT NANCY CHARLEMAGNE en 2023
+- **Diplôme en Informatique**
+  -  BUT à l'IUT NANCY CHARLEMAGNE en 2024(j'espère).
+    **ressentit:** je voudrais d'abord remercier les responsables d'enseignement pour le combat rude qu'il y a eu pour trouver des intervenants dans une configurations aux apparences défavorables...
+     J'ai le sentiment d'avoir été bien formé sur le plan technique cependant j'aurais apprécié un peu plus de mathématiques ,étant donné que nous n'avons pas eu de cours de sécurité...
 
 ## Certifications
 
@@ -71,4 +74,5 @@ Administrateur système et réseau spécialisé dans les solutions cloud, avec u
 ## Centres d'Intérêt
 - Technologie
 - Résolution de Problèmes
+- Lecture
 - Formation Continue
