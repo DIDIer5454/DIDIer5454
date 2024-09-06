@@ -90,4 +90,4 @@ Il s'agit d'outil permettant de gérer les ressources d'une machine en cas de so
 - Technologie
 - Résolution de Problèmes
 - Lecture
-- Formation Continue
+- Formation Alternant
