@@ -31,7 +31,7 @@ Etudiant ingénieur en cybersécurité
 ### Virtualisation 3/5
 - Docker
 - Conteneurisations
-### Sécurité 1/5
+### Sécurité 4/5
 - Mise en place de politiques de sécurité
 - Surveillance des vulnérabilités
 - Gestion des certificats SSL/TLS
@@ -39,12 +39,30 @@ Etudiant ingénieur en cybersécurité
 ### Scripting et Automatisation 4/5
 - Shell scripting (Bash)
 - Ruby 
-### Outils de Surveillance 2/5
+### Outils de Surveillance 3/5
 Il s'agit d'outil permettant de gérer les ressources d'une machine en cas de soucis, afin de débuger plus facilement certains soucis(Mémoire vive,disque dur plein ,cpu ,identifier des applications gourmandes,optimisation d'un serveur). 
 - Prometheus
 - Grafana
 
 ## Expérience Professionnelle( débouchés visés)
+
+### Analyste cybersécurité
+- Surveillance et détection des menaces
+- Réponse aux incidents de sécurité
+- Analyse des vulnérabilités
+- Mise en œuvre de politiques de sécurité
+- Formation et sensibilisation des employés
+- Gestion des outils de sécurité
+- Surveillance des évolutions technologiques
+- Production de rapports et audits de sécurité
+
+### Ingénieur en sécurité informatique
+- Conception et mise en place de solutions de sécurité
+- Audit de sécurité
+- Supervision des infrastructures de sécurité
+- Gestion des politiques de sécurité
+- Réponse aux incidents
+- Veille technologique et évolutions des menaces
 
 ### Administrateur Système et Réseau Cloud 
 - Conception et déploiement d'infrastructures cloud pour optimiser les opérations.
