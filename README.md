@@ -75,6 +75,7 @@ Il s'agit d'outil permettant de gérer les ressources d'une machine en cas de so
 - Implémentation de solutions de sauvegarde et de reprise après sinistre.
 
 ## Formation Académique
+- **BUT INFORMATIQUE**
 - **DUT INFORMATIQUE**
 
 ## Certifications
